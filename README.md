@@ -1,4 +1,4 @@
-# Como criar um Aviso de __Cookies__, usando html, css e javascript [Youtube]
+# Como criar um Alert Personalizado usando Html, Css e JavaScript [Youtube]
 
 Bem-vindo ao Codando com Amor! 
 
